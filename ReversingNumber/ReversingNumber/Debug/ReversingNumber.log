@@ -1,0 +1,3 @@
+﻿  ReversingNumber.cpp
+C:\Users\JP\source\repos\ReversingNumber\ReversingNumber\ReversingNumber.cpp(4,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  ReversingNumber.vcxproj -> C:\Users\JP\source\repos\ReversingNumber\Debug\ReversingNumber.exe
